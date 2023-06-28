@@ -13,7 +13,8 @@ FEATURES --
 
 SCREENSHOTS :
 1.
-![1](https://github.com/jeyjeyjessica/SecuHer/assets/112557423/3a7d4cbb-91a8-49a1-9f01-8517d81ea463)
+![1](https://github.com/jeyjeyjessica/SecuHer/assets/112557423/8e511344-98fd-4629-8cd0-253e3a1dc783)
+
 Splash screen.
 
 2.
