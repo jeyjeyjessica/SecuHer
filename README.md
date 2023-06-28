@@ -13,22 +13,32 @@ FEATURES --
 
 SCREENSHOTS :
 1.
-![1](https://github.com/jeyjeyjessica/SecuHer/assets/112557423/8e511344-98fd-4629-8cd0-253e3a1dc783)
+
+
+![1](https://github.com/jeyjeyjessica/SecuHer/assets/112557423/7635a7ef-51b0-4f5e-a10d-2c837c1ca719)
+
 
 Splash screen.
 
 2.
 
-![2](https://github.com/jeyjeyjessica/SecuHer/assets/112557423/38e58fa6-921f-4403-99ed-56f37e843e42)
+
+![2](https://github.com/jeyjeyjessica/SecuHer/assets/112557423/4896c972-f9e6-40b0-aad3-24fb50f70b6e)
+
+
 The number registered for sending the location message (Note: The number is blurred for security purposes).
 
 3.
 
-![3](https://github.com/jeyjeyjessica/SecuHer/assets/112557423/4b23a236-bba2-4cec-ad2a-5b639225b93d)
+
+![3](https://github.com/jeyjeyjessica/SecuHer/assets/112557423/1b84d29b-a05d-477e-88bd-78d7a398f38a)
+
 The number is displayed and can be changed anytime. To start the service click on the start button and then anytime you shake the device the message will be sent to the registered number. To stop the service click on STOP button.
 
 4.
 
-![4](https://github.com/jeyjeyjessica/SecuHer/assets/112557423/2c0db381-2235-49a8-849a-252453b59dda)
+
+![4](https://github.com/jeyjeyjessica/SecuHer/assets/112557423/b318d2cf-f6a7-4a53-8908-41b84f041764)
+
 The message is sent successfully with the last known location.
 
