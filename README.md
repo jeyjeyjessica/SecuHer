@@ -42,7 +42,8 @@ The number is displayed and can be changed anytime. To start the service click o
 
 
 
-![4](https://github.com/jeyjeyjessica/SecuHer/assets/112557423/166b895e-4bf5-4f01-88df-8d3fd29404ae)
+![4](https://github.com/jeyjeyjessica/SecuHer/assets/112557423/bffc3390-ee0b-471d-9a7f-d5e0291ed432)
+
 
 The message is sent successfully with the last known location.
 
